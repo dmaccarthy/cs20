@@ -1,0 +1,6 @@
+80's Movie#Raiders of the Lost Ark
+Sports Team#Toronto Raptors
+This line is invalid
+#So is this one
+Canadian City#Halifax, Nova Scotia
+This#line#has too many#fields!
