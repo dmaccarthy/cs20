@@ -19,7 +19,7 @@ def setup(sk):
     sk.alien = Image("img/alien.png")
     sk.bind(ondraw)
 
-def ondraw(sk):
+def ondraw(sk, ev=None):
     # Remove colliding sprites
     remove = Collisions(sk).among()
     if remove:
