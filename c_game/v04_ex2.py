@@ -1,12 +1,5 @@
 "Assignment 4, Example 2 - Keyboard Events"
 
-# Ensure that the 'current working directory' is set
-# properly so that Python can find the image files.
-
-import os
-os.chdir(os.path.split(__file__)[0])
-
-
 from pygame.constants import K_LEFT, K_RIGHT
 from sc8pr import Sketch, Image
 from sc8pr.sprite import Sprite

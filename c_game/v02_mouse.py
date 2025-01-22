@@ -2,13 +2,6 @@
 
 """
 
-# Ensure that the 'current working directory' is set
-# properly so that Python can find the image files.
-
-import os
-os.chdir(os.path.split(__file__)[0])
-
-
 from random import uniform, randint
 from sc8pr import Sketch, Image, BOTH
 from sc8pr.sprite import Sprite, Collisions
