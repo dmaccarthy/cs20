@@ -1,0 +1,1 @@
+Use this folder for images (and sounds if you want!) for your Game Project.
