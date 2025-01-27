@@ -1,4 +1,4 @@
-with open("myData2.txt", "r+", encoding="UTF-8") as text:
+with open("clues.txt", "r+", encoding="UTF-8") as text:
     print("Original File:")
     print(text.read())
     text.seek(11)
