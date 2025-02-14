@@ -7,7 +7,7 @@ Pre- & Post-Conditions
 # Do NOT modify this program...
 # Make your edits in resource/wholeNum.py
 
-from resource.wholeNum import isPrime, primes, factor
+from p04_wholenum import isPrime, primes, factor
 
 print(isPrime(31))
 print(factor(144))

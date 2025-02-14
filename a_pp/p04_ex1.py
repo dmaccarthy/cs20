@@ -5,7 +5,7 @@ Example 1
 
 """
 
-from resource.wholeNum import isPrime
+from p04_wholenum import isPrime
 
 print(isPrime(6))
 print(isPrime(7))
