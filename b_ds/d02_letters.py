@@ -3,7 +3,7 @@ CSE 2120: Data Structures
 Iteration
 """
 
-from resource.load import load
+from sal_ds1.load import load
 
 # Complete these functions only...
 
